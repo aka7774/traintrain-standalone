@@ -14,3 +14,5 @@ lycoris_lora
 schedulefree
 pytorch-optimizer
 setuptools==69.5.1
+fastapi
+uvicorn
